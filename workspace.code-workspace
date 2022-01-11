@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\python files"
+		},
+		{
+			"path": "..\\AIML Python"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"cmath": "cpp",
+			"iostream": "cpp",
+			"new": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "c++"
+	}
+}
